@@ -1,0 +1,206 @@
+====================
+     2019-06-12    
+====================
+
+ * frameworks/base
+e4e5f41  UpdateEngine: Add perf mode binder interface  [Luca Stefani]
+
+ * vendor/stag
+3b94e81  bring in updater  [phenomenall]
+
+====================
+     2019-06-11    
+====================
+
+====================
+     2019-06-10    
+====================
+
+====================
+     2019-06-09    
+====================
+
+====================
+     2019-06-08    
+====================
+
+ * system/update_engine
+38bbab5  update_engine: Boost update_attempter thread priority  [Harsh Shandilya]
+ecb6813  update_engine: Transition to backuptool domain  [Luca Stefani]
+f307f54  update_engine: run backuptool script before normal postinstall script  [Dan Pasanen]
+ece8db4  update_engine: Add performance mode  [Gabriele M]
+
+====================
+     2019-06-07    
+====================
+
+====================
+     2019-06-06    
+====================
+
+====================
+     2019-06-05    
+====================
+
+ * frameworks/base
+0c0c1ea  Q TextClock: Use Google Sans for typeface  [Harsh Shandilya]
+8d9bd0a  Use accent for It's of Custom Q Clock  [phenomenall]
+99b4508  KeyguardSliceView: Align as per the Clock Style  [Shreyansh Lodha]
+2ea4731  Fix showing empty signal strength for TD-SCDMA  [Mengjun Leng]
+
+ * packages/apps/Horns
+e26990c  Disable Lockscreen Media Art [2/2]  [blinoff82]
+ed9f67b  SystemSettingListPreference: Add dependency attribute  [DennySPB]
+c8f625f  Add missing string  [phenomenall]
+
+ * packages/services/Telephony
+04d43ac  Fix the drawable resource can't be loaded from RRO package  [Ping Sun]
+9e75986  Fix carrier config option not hidden on a CDMA phone  [dianlujitao]
+a6c1aa1  Telephony: Support muting by RIL command  [Artem Borisov]
+5ff3ced  Telephony: Mark enhanced_4g_lte_mode_title_variant as untranslatable  [Michael Bestas]
+e386a11  Telephony: Add missing key for phone account settings  [maxwen]
+22930de  Telephony: Add missing protected broadcasts  [Pranav Vashi]
+
+====================
+     2019-06-04    
+====================
+
+ * bootable/recovery
+b15b20e  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/bootable/recovery into HEAD  [phenomenall]
+
+ * build/make
+bca7518  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/build into p9  [phenomenall]
+
+ * frameworks/av
+0571782  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/frameworks/av into HEAD  [vjspranav]
+
+ * frameworks/base
+d9c17fe  Aggressive Battery: fix auto enable on battery saver  [shagbag913]
+84a9944  core: Implement Aggressive Battery [1/2]  [Joe Maples]
+0ca62b4  base: fix changing doze settings  [maxwen]
+3662331  fonts: Go back to using Roboto as the default  [mydongistiny]
+228a3b1  fonts: Build different fonts.xml if EXCLUDE_SERIF_FONTS is true  [Akianonymus]
+3cb77ed  FontService: Disable logspam  [Akianonymus]
+8f26daf  SystemUI: Add Smart Pixels tile  [Adin Kwok]
+7319ed6  Smart Pixels: Bypass check for obscured window  [Alex]
+273ec4c  Smart Pixels: Dynamically register receiver  [Adin Kwok]
+e146c35  Smart Pixels: Switch to registered receiver  [Adin Kwok]
+c44ce06  Smart Pixels: Move out of SystemUI  [Alex Cruz]
+f5ec588  SystemUI: Smart Pixels [1/2]  [Joe Maples]
+b33598c  SystemUI: screen-dimmer-pixel-filter  [Sergii Pylypenko]
+d0a9416  Add missing ensureRunningOnConnectivityServiceThread() function *After June Patch Merge  [phenomenall]
+4a45dff  GamingModeTile: stop adjusting volume  [HolyAngel]
+5932cad  Fix NullPointerException in CaptivePortalLogin  [Hisanobu, Watanabe]
+56a57a6  Fix a bug where + before % is ignored  [Chalard Jean]
+6b9f0b4  base: LS filters: Add 2 more variants  [ElDainosor]
+85e9bb3  ImageUtils: Switch blur lib to SimpleImageBlur  [ElDainosor]
+30cdc31  base: Optimize toGrayscale function  [ElDainosor]
+df7b35c  base: Intensify the blur amount on LS cover art  [ElDainosor]
+1c4a684  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/frameworks/base into HEAD  [vjspranav]
+
+ * frameworks/native
+f80f350  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/frameworks/native into HEAD  [vjspranav]
+
+ * frameworks/opt/net/wifi
+89bfd08  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/frameworks/opt/net/wifi into HEAD  [vjspranav]
+
+ * frameworks/opt/telephony
+5d43ce2  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/frameworks/opt/telephony into HEAD  [vjspranav]
+
+ * hardware/interfaces
+d1e495d  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/hardware/interfaces into HEAD  [phenomenall]
+
+ * packages/apps/Horns
+d243e10  Update Smart Pixels menu  [Adin Kwok]
+e35856a  Smart Pixels [2/2]  [Joe Maples]
+71762d7  Settings: Implement Aggressive Battery [2/2]  [Joe Maples]
+eaf559d  Settings: LS filters: Add 2 more variants  [ElDainosor]
+fca9f82  Settings: Add Lockscreen cover art filter [2/2]  [ElDainosor]
+
+ * packages/apps/Settings
+5a6a16f  Add a preference controller for Smart Pixels  [Alex Cruz]
+42e2fe5  Settings: External Smart Pixels fragment launch  [Adin Kwok]
+4d82f17  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/packages/apps/Settings into HEAD  [phenomenall]
+
+ * packages/overlays/gradients
+fe1db52  gradients: Lavender: invert gradient colors  [UtsavisGreat]
+f16a18a  gradients: GrapeVineTheme: invert gradient colors  [UtsavisGreat]
+151b5e1  Add new gradients  [Giovix92]
+46d69fd  Add new gradients  [Giovix92]
+
+ * packages/providers/MediaProvider
+acf10be  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/packages/providers/MediaProvider into HEAD  [phenomenall]
+
+ * packages/services/Telecomm
+d246448  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/packages/services/Telecomm into HEAD  [phenomenall]
+
+ * packages/services/Telephony
+8be0866  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/packages/services/Telephony into HEAD  [phenomenall]
+
+ * system/bt
+1add5ed  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/system/bt into HEAD  [phenomenall]
+
+ * system/vold
+4e38e05  Merge tag 'android-9.0.0_r42' of https://android.googlesource.com/platform/system/vold into HEAD  [phenomenall]
+
+ * vendor/stag
+05ca650  Build Shishu  [phenomenall]
+53c701f  Update Changelog *Idea from RR *Copy to system/etc without mistake  [phenomenall]
+6156a2c  Add Shishu nights theme [2/3]  [El Dainosor]
+
+====================
+     2019-06-03    
+====================
+
+ * build/make
+45faa08  Run Changelog.sh on envsetup  [phenomenall]
+
+ * system/sepolicy
+9c9f1aa  Fix storaged access to /sys/block/mmcblk0/stat after c936223c  [Vladimir Oltean]
+
+====================
+     2019-06-02    
+====================
+
+ * packages/apps/Horns
+d54beda  Horns:: Introduce RGB accenter [2/2] *Add new System tab *drawable taken from https://gerrit.omnirom.org/#/c/android_packages_apps_OmniGears/+/29692/1/res/drawable/ic_settings_system.xml (From Omni)  [Kshitij Gupta]
+
+ * packages/apps/Settings
+a8db795  Settings: Update OMS Wrapper class  [Kshitij Gupta]
+2e34c45  Revert "Fruity pebbles [3/4]"  [phenomenall]
+5db5e11  Revert "Fruity pebbles [4/4]"  [phenomenall]
+4dd50cd  Revert "Fruity Pebbles v2.0"  [phenomenall]
+8897b54  Revert "Accent Picker: Add 23 fancy accent colors [2/3]"  [phenomenall]
+
+ * vendor/stag
+5bab0a2  Fix Changelog script  [phenomenall]
+
+====================
+     2019-06-01    
+====================
+
+ * frameworks/base
+70e1e8a  base: Introduce RGB accenter [1/2]  [Kshitij Gupta]
+bf011f2  Base: Add Shishu Nights theme v2.0 [1/3]  [El Dainosor]
+
+ * packages/apps/Settings
+f5350a1  Add Shishu nights theme [3/3]  [phenomenall]
+
+====================
+     2019-05-31    
+====================
+
+ * vendor/stag
+27c054b  Update app *Disablig Liscense Check *Add some info *Add icon (Thanks to Asmit)  [vjspranav]
+
+====================
+     2019-05-30    
+====================
+
+ * vendor/stag
+47bc16e  Add StagWalls *StagWalls-v2.6.8-release  [vjspranav]
+
+====================
+     2019-05-29    
+====================
+
