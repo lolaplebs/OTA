@@ -1,0 +1,280 @@
+====================
+     2019-06-27    
+====================
+
+ * build/make
+875d0ca  Merge branch 'p9' of https://github.com/StagOS/android_build_make into HEAD  [vjspranav]
+c65f45a  Call stag/sepolicy  [vjspranav]
+
+ * frameworks/base
+cb83168  FOD: dont show FP icons if FOD is in use  [Marko Man]
+1d06622  fod: custom fingerprint icon [1/2]  [Vachounet]
+8368a7a  fod: prevent reapplying modes if theres no changes  [Marko Man]
+309b1fc  fod: differentiate dreaming and pulse  [Marko Man]
+6acafa0  Initial support for OnePlus in-display fingerprint sensor  [phhusson]
+0c962d3   base: add camera flash toggle api  [Rabih Salamey]
+
+ * packages/apps/Horns
+3e3c3e8  custom fingerprint icon [2/2]  [Vachounet]
+
+ * vendor/stag
+db71d17  [TEMP] Update Wallpaper taken from : https://wall.alphacoders.com/big.php?i=529959 author : Jochi No copyright infringement intended  [vjspranav]
+
+====================
+     2019-06-26    
+====================
+
+ * build/make
+ef685c1  It is A Team Stag  *  [phenomenall]
+
+ * frameworks/base
+0047cc1  Fix for Battery Temp  [RakeshBatra]
+aa58a8c  Utils: Add method to determine battery temp  [Alex Cruz]
+287ac27  SystemUI: Add AmbientDisplay tile  [Adnan Begovic]
+266482b  AODTile: Fix long click intent  [SuperDroidBond]
+79673b7  base: Turn on display if Doze On Charge is Enabled  [ShevT]
+3dc037d  Fix some Carrierlabel and Statusbar clock fonts  [vjspranav]
+50909e9  base: SystemUI: add config check for aod available in qs tile  [maxwen]
+ad95498  base: SystemUI: add qs AOD tile  [Marko Man]
+c155b1c  Fix StatusBar Brightness Control  [Danesh M]
+3d45859  base: add option to show AOD on charge only [1/2]  [Marko Man]
+
+ * packages/apps/Settings
+4d42646  Battery temp: Ensure preference is updated  [Alex]
+5164485  Battery stats: Display battery temperature  [Alex Cruz]
+9068144  Open advanced power usage summary on header click of battery  [Vachounet]
+4249115  Settings UI: Open UserSettings fragment on user icon click  [DennySPB]
+9cc2b59  Some changes for our Setting Title  [RakeshBatra]
+8bc1ff2  UI : Increase toolbar size and misc fixes  [IacobIonut01]
+4459edd  Settings UI : Show User Icon in dashboard  [IacobIonut01]
+ab6064d  Settings UI : Tint Storage ProgressBar & Redesign Toolbar  [IacobIonut01]
+4ca3755  Dashboard : Quick Redesign  [IacobIonut01]
+4ab6b5a  Battery : Redesign BatteryMeterView  [IacobIonut01]
+eea7361  Settings: add option to show AOD on charge only [2/2]  [Marko Man]
+
+====================
+     2019-06-25    
+====================
+
+ * frameworks/base
+f9be5ff  SystemUI: Add Cellular tile icon from OOS  [Anushek Prasal]
+19ab929  Fix inaccurate power algorithm of mobile radio  [yuanhuihui]
+7e60b4d  base: SystemUI: fix themeing of notification shelf dot  [maxwen]
+92dee40  base: SystemUI: make qs edit repect header image  [maxwen]
+38faf94  Remove useless warning when dismissing notification  [Pranav Vashi]
+8343bc0  Add New QSTile Styles  [phenomenall]
+463c63d  SwipeToScreenshot: Import MIUI implementation  [Henrique Silva]
+e4beef3  Improvements for swipe to screenshot  [Henrique Silva]
+81dc2d0  UpdateEngine: Add perf mode binder interface  [Luca Stefani]
+
+ * packages/apps/Horns
+6b6458a  Horns: Add 5 more styles  [ElDainosor]
+17eae0d  Hirns: Add Cookie QS style [3/3]  [anayw2001]
+
+ * vendor/stag
+3881740  Add New QSTile styles  [phenomenall]
+9dea0cb  Add Cookie QS style [1/3]  [HrX03]
+55d9357  QSTiles: Add more styles  [ElDainosor]
+9f6ba6b  add OTA json generation script  [Akhil Narang]
+cc31993  bring in updater  [phenomenall]
+
+====================
+     2019-06-24    
+====================
+
+====================
+     2019-06-23    
+====================
+
+ * bootable/recovery
+01b850c  Merge tag 'android-9.0.0_r40' of https://android.googlesource.com/platform/bootable/recovery into HEAD  [vjspranav]
+
+ * build/make
+ac418c7  Merge tag 'android-9.0.0_r40' of https://android.googlesource.com/platform/build into HEAD  [vjspranav]
+
+ * frameworks/av
+8bc94a6  Merge tag 'android-9.0.0_r40' of https://android.googlesource.com/platform/frameworks/av into HEAD  [vjspranav]
+
+ * frameworks/base
+a85a4f4  Revert "NightDisplayController: report unavailable if livedisplay feature is present"  [Rashed Abdel-Tawab]
+2c55fac  LiveDisplay: Improve sunrise/sunset calculator  [Henrique Silva]
+1f9349c  LiveDisplay: Change night/day mode transition behavior  [Paul Keith]
+e1e1acf  LiveDisplay tile: allow override outdoor capablity  [DennySPB]
+d5520ad  LiveDisplay tile: allow FEATURE_MANAGED_OUTDOOR_MODE  [DennySPB]
+5513e93  LiveDisplay: Disable by default  [Henrique Silva]
+58806ee  LiveDisplay: don't start services if phone is encrypted  [Henrique Silva]
+ffeae1c  SystemUI: Add reading mode tile  [Joey]
+fb32c38  SystemUI: Add LiveDisplay tile  [Steve Kondik]
+aa62586  Introduce LiveDisplay from Lineage  [Henrique Silva]
+c64bc63  base: Add seekbar to media notification  [paphonb]
+435be3a  base: notch-city: Add 3 mode display cutout handler [1/3]  [Kshitij Gupta]
+2f056c6  Cutout force full screen: Remove fullscreen checks  [Henrique Silva]
+5c54f87  fwb: [1/2] Implement cutout force full screen  [Henrique Silva]
+9fce036  Smart Charging: allow using device overlays  [DennySPB]
+cb254e6  Smart Charging: rework for using more common sysfs node [1/2]  [DennySPB]
+d06279d  base: Smart Charging (1/4)  [Lucchetto]
+8c8d390  ActivityThread: Remove Failed to find provider info logspam  [mydongistiny]
+b47cc62  Boostframework: Adding reserved hint types for launch boost  [richagar]
+78a2aea  BoostFramework : Modified Start Proc trigger and added Kill Hint.  [Sai Manobhiram]
+af226db  BoostFramework: Add debug to hide logcat spam on devices without QPerfomance  [xyyx]
+b76f29a  BoostFramework: silence exception about class not found  [DennySPB]
+8b6a078  BoostFramework: Implement asynchronous processing of perflocks  [Alex Naidis]
+5f532e2   Q Clock: Apply the same fonts as clock ones  [ElDainosor]
+44a3392  SystemUI: Allow Pixel 3 live wallpapers to work in Ambient Display  [paphonb]
+69676d7  Fix analog clocks not refreshing in AOD  [Nicholas]
+362531a4   base: ls-clocks: Respect accenter colors  [Kshitij Gupta]
+0b27bf6  Q Style Clock: Animate change in time  [Shreyansh Lodha]
+cc95750  Q Style Clock: Align owner info as per the clock style  [Shreyansh Lodha]
+37ef867  Q Style Clock: Set "It's" to accent color instead of gold / yellow color  [Shreyansh Lodha]
+625ed7f  Q Style Clock: Make it fully translatable  [paphonb]
+10664398   SystemUI: Cleanup keyguard_status_view layout  [vjspranav]
+94ed205  CustomTextClock: Cleanup  [Anushek Prasal]
+29c833b  CustomTextClock: Fix disappearing clock and SystemUI crash  [Anushek Prasal]
+b793a59  SettingsLib: Expose Q battery icon paths  [paphonb]
+b7f955f  SystemUI: Fix percentage issues with Q style battery icon  [Anushek Prasal]
+2af2b86  Fix accent color on clocks after RGB Accents base: ls-clocks: Respect accenter colors  [Kshitij Gupta]
+29d8102  qs_footer: Update visibilities after inflate finish  [Kshitij Gupta]
+79b6b41  LatinIME: fix navigation bar for expanded desktop  [mydongistiny]
+6892e37  Q TextClock: Use Google Sans for typeface  [Harsh Shandilya]
+c162dbf  Use accent for It's of Custom Q Clock  [phenomenall]
+1bcac9d  KeyguardSliceView: Align as per the Clock Style  [Shreyansh Lodha]
+4679946  Aggressive Battery: fix auto enable on battery saver  [shagbag913]
+23bd770  core: Implement Aggressive Battery [1/2]  [Joe Maples]
+8137cab  base: fix changing doze settings  [maxwen]
+b252fb1  fonts: Go back to using Roboto as the default  [mydongistiny]
+d4594d4  fonts: Build different fonts.xml if EXCLUDE_SERIF_FONTS is true  [Akianonymus]
+86ddda3  FontService: Disable logspam  [Akianonymus]
+52e9eb4  SystemUI: Add Smart Pixels tile  [Adin Kwok]
+79daa4f  Smart Pixels: Bypass check for obscured window  [Alex]
+4f03849  Smart Pixels: Dynamically register receiver  [Adin Kwok]
+e23232f  Smart Pixels: Switch to registered receiver  [Adin Kwok]
+70df18d  Smart Pixels: Move out of SystemUI  [Alex Cruz]
+b0ddfff  SystemUI: Smart Pixels [1/2]  [Joe Maples]
+e0bf75f  SystemUI: screen-dimmer-pixel-filter  [Sergii Pylypenko]
+68245b4  GamingModeTile: stop adjusting volume  [HolyAngel]
+478afd3  Fix NullPointerException in CaptivePortalLogin  [Hisanobu, Watanabe]
+41f82ab  Fix a bug where + before % is ignored  [Chalard Jean]
+1009263  base: LS filters: Add 2 more variants  [ElDainosor]
+bf5fe51  ImageUtils: Switch blur lib to SimpleImageBlur  [ElDainosor]
+d67e1c1  base: Optimize toGrayscale function  [ElDainosor]
+ccd3393  base: Intensify the blur amount on LS cover art  [ElDainosor]
+a86c979  Merge tag 'android-9.0.0_r40' of https://android.googlesource.com/platform/frameworks/base into HEAD  [vjspranav]
+
+ * packages/apps/Horns
+ba0efba  Revert QS Panel Opacity  [vjspranav]
+a2e76a6  Cutout Modes: Add preview video  [Kshitij Gupta]
+af90436   settings: notch-city: Add 3 mode display cutout handler [3/3]  [Kshitij Gupta]
+
+ * packages/apps/Settings
+51b711e  livedisplay: Don't show display mode and color tempertature on HWC2  [Rashed Abdel-Tawab]
+35fc161  Revert "Settings: Hide Night Mode suggestion if LiveDisplay feature is present"  [Rashed Abdel-Tawab]
+5bad933  Settings: Changes for LiveDisplay  [Henrique Silva]
+5644f87  VideoPreference: Allow fitting video width  [Kshitij Gupta]
+280b7e0  Settings: [2/2] Implement cutout force full screen  [Henrique Silva]
+568e302  Settings: Smart Charging (2/4)  [Lucchetto]
+da1c885  Settings: Move 'About phone' to the bottom  [SuperDroidBond]
+6641f33  Add a preference controller for Smart Pixels  [Alex Cruz]
+4489455  Settings: External Smart Pixels fragment launch  [Adin Kwok]
+
+ * packages/apps/SmartNavSettings
+78d44df  Disable all gestures when navbar enabled  [DennySPB]
+
+ * packages/providers/MediaProvider
+46c7fbb  Merge tag 'android-9.0.0_r40' of https://android.googlesource.com/platform/packages/providers/MediaProvider into HEAD  [vjspranav]
+
+ * packages/services/Telephony
+362248b  Fix the drawable resource can't be loaded from RRO package  [Ping Sun]
+5375eae  Fix carrier config option not hidden on a CDMA phone  [dianlujitao]
+f3ac96d  Telephony: Support muting by RIL command  [Artem Borisov]
+a85b98f  Telephony: Mark enhanced_4g_lte_mode_title_variant as untranslatable  [Michael Bestas]
+1ca6752  Telephony: Add missing key for phone account settings  [maxwen]
+e784c5c  Telephony: Add missing protected broadcasts  [Pranav Vashi]
+
+ * system/bt
+2cf3f91  Merge tag 'android-9.0.0_r40' of https://android.googlesource.com/platform/system/bt into HEAD  [vjspranav]
+
+ * system/vold
+911274d  Merge tag 'android-9.0.0_r40' of https://android.googlesource.com/platform/system/vold into HEAD  [vjspranav]
+
+====================
+     2019-06-22    
+====================
+
+ * packages/apps/Horns
+ab84e61  Disable Lockscreen Media Art [2/2]  [vjspranav]
+c97ed2f  SystemSettingListPreference: Add dependency attribute  [DennySPB]
+dea4974  Settings: Implement Aggressive Battery [2/2]  [Joe Maples]
+57f3ec0  Update Smart Pixels menu  [Adin Kwok]
+a3f2266  Smart Pixels [2/2]  [Joe Maples]
+06750d1  Settings: LS filters: Add 2 more variants  [ElDainosor]
+ddf1d99  Settings: Add Lockscreen cover art filter [2/2]  [ElDainosor]
+
+ * vendor/stag
+4d3c2d8  stag: qcom: Allow a device to manually override which HALs it wants to use  [Akhil Narang]
+e5f32c2  Changelog Update  [vjspranav]
+e2011f4  vendor: notch-city: Add 3 mode display cutout handler [2/3]  [Kshitij Gupta]
+7eab0a7  Smart Charging: chown all known charge suspend nodes  [DennySPB]
+e0886d4  Smart Charging: rework for using more common sysfs node [2/2]  [DennySPB]
+3a7e67b  vendor: Smart Charging (4/4)  [Lucchetto]
+9750ab0  stag: fix SlateFromOneplus font for other TextStyles  [Mohan Cm]
+83af88a  Vendor: Fonts: Add more fonts  [amarbajpai]
+0233498  vendor: Add 2 more fonts  [mukesh22584]
+a138093  vendor: Add 20SEVEN font  [Anushek Prasal]
+6b7690b  Some Good Fonts from FontManager Magisk Module!  [Shisui]
+
+====================
+     2019-06-21    
+====================
+
+ * vendor/stag
+18df4a1  vendor: Add 3 new fonts  [ElDainosor]
+d3eb211  vendor: Add Neoneon Font  [SuperDroidBond]
+d633afb  vendor:  Add 'GoBold' font family  [ElDainosor]
+dc65786  Vendor: Add samsung font  [Ded_Boi]
+6b1f923  vendor: Import LiveDisplay init file  [Henrique Silva]
+b377625  vendor: Whitelist LiveDisplay permissions  [Henrique Silva]
+
+====================
+     2019-06-20    
+====================
+
+====================
+     2019-06-19    
+====================
+
+====================
+     2019-06-18    
+====================
+
+ * prebuilts/clang/host/linux-x86
+5e8cfae  Update prebuilt Clang to r353983d.  [Nick Desaulniers]
+
+====================
+     2019-06-17    
+====================
+
+====================
+     2019-06-16    
+====================
+
+====================
+     2019-06-15    
+====================
+
+====================
+     2019-06-14    
+====================
+
+ * packages/apps/Updater
+b0d4692  AOSiP->Stag  [phenomenall]
+
+====================
+     2019-06-13    
+====================
+
+ * packages/apps/SmartNav
+b5f92b3  SmartNav: update smartbar drawables  [jar2105]
+295c6f6  SmartNav: update smartbar home drawable  [Vol Zhdanov]
+bbb8c98  Add swiftNavigationBarItems to public methods  [DennySPB]
+2d2f710  Navigator: Add Gesture nav to public methods  [Josh Fox (XlxFoXxlX)]
+
