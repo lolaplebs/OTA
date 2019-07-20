@@ -1,0 +1,233 @@
+====================
+     2019-07-20    
+====================
+
+====================
+     2019-07-19    
+====================
+
+====================
+     2019-07-18    
+====================
+
+ * frameworks/base
+77d1b43  QSContainerImpl: Toggle Dark QS Panel based on color  [Kshitij Gupta]
+
+ * vendor/stag
+0ff23b3  config: Build the new Terminal app  [Ricardo Cerqueira]
+
+====================
+     2019-07-17    
+====================
+
+ * packages/services/Telecomm
+b63a5c2  incall vibration options [2/3]  [beanstown106]
+
+====================
+     2019-07-16    
+====================
+
+ * vendor/stag
+92c8f91  Remove prebuilt google apps  [vjspranav]
+
+====================
+     2019-07-15    
+====================
+
+ * frameworks/base
+af4a877  SystemUI: Protect against terrible music players  [Harsh Shandilya]
+6a50bef  Allow to quickly open Running Services from QS panel [1/2]  [ezio84]
+
+ * packages/apps/Horns
+199901b  Add kill button to notification guts [2/2]  [SpiritCroc]
+33995d5  Add toggle for QS footer user switcher icon  [Anushek Prasal]
+408a791  Edit Icon Toggle [2/2]  [Joe Maples]
+ef9b36f  QS footer visibilities [2/2]  [Ali B]
+40d6623  Incall vibration options [3/3]  [beanstown106]
+
+ * packages/apps/Launcher3
+16a7736  Add support for black theme(s). In case of ShishuNights or Chocolate theme just pick "black theme".  [spezi77]
+8f21f16  Revert "Fruity Pebbles v2.0"  [phenomenall]
+41941b9  Add Hexagon icon shape  [SpiritCroc]
+
+====================
+     2019-07-14    
+====================
+
+ * packages/apps/Settings
+fb6bfd1  Allow to quickly open Running Services from QS panel [2/2]  [ezio84]
+
+ * packages/inputmethods/LatinIME
+1b9730c  Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi  [Luca Stefani]
+
+ * vendor/stag
+b3f6a4c  Merge branch 'p9' of https://github.com/StagOS/android_vendor_stag into HEAD  [vjspranav]
+2cca7b3  Fix Vanced Youtube crash on shishu Nights theme 	error:    msg: java.lang.IllegalArgumentException: background can not be translucent: #ae101014 	android/black to background_* 	inspired from a shishu commit in Booty  [vjspranav]
+
+====================
+     2019-07-13    
+====================
+
+ * packages/apps/Launcher3
+a2912b72  Weather : custom -> stag  [vjspranav]
+d65b41b  Launcher3: Use a bottom margin when a software navigation bar is not in use  [Amir Zaidi]
+929d709  Quickspace: Query weather data when observer is added  [Sirhc95]
+bc9eeca  QuickSpace: Don't check provider availability  [Sirhc95]
+b182c47  Quickspace: Fix memory leak in intent receivers  [Chris]
+78b4c19  Quickspace: Add Quick events support  [Chris]
+a5c34ef  Quickspace: Create action receivers for date/weather view  [Chris]
+b662b01  Launcher3: Introduce Quickspace  [Chris]
+4e7625e  Automatic translation import  [Kronic]
+edf5a6f  Option to hide/show quicksearchbar  [Gábor Vass]
+78e9bf6  Automatic translation import  [Kronic]
+490eefa  Automatic translation import  [Kronic]
+7edec28  Automatic translation import  [Akhil Narang]
+558845e  Minor improvements for custom app icons  [Giuseppe Maggio]
+a88ec4c  Gestures: Commonize duplicate code  [Harsh Shandilya]
+a6b5466  Automatic translation import  [Akhil Narang]
+268cba7  Automatic translation import  [Akhil Narang]
+e1b10f7  Automatic translation import  [Akhil Narang]
+a97e770  Icon edit: Add fast scrolling to icon pack RecyclerView  [Alex]
+d2747c6  Icon edit: Move resources to our namespace xml's  [Alex]
+f3b5c46  Beautify icon edit dialog  [Alex]
+198c5d3  Fix icon editor picking the wrong icon on tap  [ezio84]
+d6653ff  Support per-app icon and label customization [1/2]  [Anas Karbila]
+e0dac58  Revert "Add option to allow app names to be two lines"  [Alex]
+985c91f  Settings: fix method to hide dividers  [Alex]
+bcd239c  Hide drag arrow in landscape  [Giuseppe Maggio]
+07e7090  Merge tag 'android-9.0.0_r44' of https://android.googlesource.com/platform/packages/apps/Launcher3 into phenom  [phenomenall]
+
+====================
+     2019-07-12    
+====================
+
+ * frameworks/base
+7328239  SystemUI: fix no service and emergency calls only placement  [Nick Filmer]
+60dc67b  SystemUI: Fix multiuser icon glitch in QS footer  [Anushek Prasal]
+38e0e77  QSPanel: Always show divider like OOS  [Anushek Prasal]
+2f4b1ff  base: Persistent settings icon on qs panel for 9.x  [HrX03]
+a40c856  base: Code improvements QS footer visibilities  [Anushek Prasal]
+acf219a  Edit Icon Toggle [1/2]  [Joe Maples]
+cf78ca6  SystemUI: QS footer visibilities [1/2]  [Ali B]
+90e7f8f  QS tiles: Update icons from Android Q  [Stallix]
+
+ * packages/apps/Launcher3
+a0c476f  Launcher3 : Adpt to stag  [phenomenall]
+
+====================
+     2019-07-11    
+====================
+
+ * vendor/stag
+f69e554  Nuke Accents  [phenomenall]
+
+====================
+     2019-07-10    
+====================
+
+ * frameworks/av
+6485d65  libstagefright: Add more sample rates for FLAC  [OrdenKrieger]
+de93dca  Camera: Add support for preview frame fd  [Susmitha Gummalla]
+043b6d2  Camera: Add extensions to CameraClient  [Shuzhen Wang]
+6b351ab  libstagefright: encoder must exist when source starting  [Cong Jiajia]
+6e9386d  Revert "Revert "OMXNodeInstance: Allow dynamic native handle mode for input buffers""  [phenomenall]
+fe0aee1  Revert "Revert "omx: restrict useBuffer according to buffer type and port mode""  [phenomenall]
+
+ * frameworks/base
+97800fe  Add kill button to notification guts [1/2]  [Daniel Koman]
+2f11696  incall vibration options [1/3]  [beanstown106]
+1def2ad  frameworks/base: media: Add support for extended file types  [Manikanta Kanamarlapudi]
+1c2ea01  audio: add support for extended formats  [Mingming Yin]
+85340a1  connectivity: Make http(s) probe connections non-persistent.  [Devi Sandeep Endluri V V]
+0e8f517  FrameworkBase: Fix NullPointerException of AMS  [xiaohuin]
+e7015e7  The surface hang up when screen on and screen off  [Guo Li]
+b4eb5fa  Fixed setting incorrect mode of vibration  [Sun Changqing]
+0ac457d  backup: right way to check canonical file path  [pip.zhang]
+4a09440  Fixes crash/race condition when destroyActivity  [katao]
+db7e87a  Select the proper request list size  [Guruprasad Gaonkar]
+b354bc33  fix deadlock of binder thread and ActivityManager  [liulvping]
+5163635  Fix deadlock in AcitivityManagerService  [longhai]
+a3a059d  Ensure cgroup.procs in the same cgroup  [zfu]
+29a5f67  AMS: Fix the null pointer exception in MainHandler:handleMessage  [Terigele]
+eeaa046  AMS: Uncatch the IllegalStateException cause process crash  [Terigele]
+add5ef6  AMS: Fix the null pointer exception in IntentResolver  [Terigele]
+f36631b  Update bluetooth drawable  [Luca Stefani]
+a2c4f71  Add bluetooth icon.  [Amin Shaikh]
+
+ * packages/inputmethods/LatinIME
+3f40ccc  Merge "Snap for 5622519 from e035e3c31904c790e5c3d88a78b98d5566038af3 to pi-platform-release am: 8c6c1e2be6" into pie-gsi  [Android Merger]
+55f5ab7  Snap for 5622519 from e035e3c31904c790e5c3d88a78b98d5566038af3 to pi-platform-release am: 8c6c1e2be6  [android-build-team Robot]
+
+ * vendor/stag
+8f14920  Build live wallpaper picker  [vjspranav]
+
+====================
+     2019-07-09    
+====================
+
+ * frameworks/base
+dd2f522  base: Q seekbar: make the seekbar transparent for non-seekable notifs  [ElDainosor]
+8ca8158  HeadsUpAppearanceController: allow heads-up to draw beyond bounds  [Peter Cai]
+f091685  Frameworks: pop up error when rename a file in the DocumentsUI  [sxia]
+8e2b11e  AudioService: Remove Analog Dock from fixed-volume devices  [Vachounet]
+ed1c627  Fixed auto-brightness first screen update.  [Dan Gittik]
+da8cb8c  Reduce the padding between media controls & seekbar  [rajadeja]
+b852c68  Frameworks: Slightly refactor Parcel code  [Andreas Gampe]
+48215a2  Stable seek bar positioning  [Sergey]
+0ef17af  base: Import Android Q activity animations  [Lucchetto]
+deca454  Option to use accent color for pulse [2/3]  [Shubham Singh]
+
+ * packages/apps/Settings
+5984c6d  Settings: Add deep sleep info to uptime  [Stefan Berger]
+10d2022  Settings: Bring back Uptime  [Stefan Berger]
+
+ * packages/inputmethods/LatinIME
+8c6c1e2  Snap for 5622519 from e035e3c31904c790e5c3d88a78b98d5566038af3 to pi-platform-release  [android-build-team Robot]
+
+====================
+     2019-07-08    
+====================
+
+ * prebuilts/clang/host/linux-x86
+ad323e7  Update prebuilt Clang to r353983e.  [Stephen Hines]
+
+====================
+     2019-07-07    
+====================
+
+ * packages/inputmethods/LatinIME
+4fa5d01  Automatic translation import  [Michael Bestas]
+
+====================
+     2019-07-06    
+====================
+
+ * frameworks/base
+2719af4  derppppp  [phenomenall]
+84c7200  SmartNav: Eliminate needless BroadcastReceiver in BaseNavigationBar [1/2]  [bigrushdog]
+2d181fa  PhoneWindowManager: Set delay for screenshot shortcut to 0  [Anirudh Gupta]
+bec643e  SystemUI: Fix several layout bugs  [eray orçunus]
+a6cf879  SystemUI: Enable/fix QS detail view & adapt to Pie  [eray orçunus]
+28194c1  Reload Pixel Home Animation without reboot  [Joe Maples]
+abeeacd  Pixel Navbar animation toggle [1/2]  [beanstown106]
+5c51695  SystemUI: Add navigation touch animation support  [Chris]
+e200f00f  SystemUI: Remove older Pixel Animation  [argraur]
+7b7b9a8  SystemUI: Use proper lock icon scale on dismissing notification panel view  [LuK1337]
+72bcfd1  SystemUI: Handle orientation and screenSize changes for TunerActivity  [LuK1337]
+9f73eb6  Fix NPE on navbar  [Henrique Silva]
+5227187  Ambient brightness values: use a custom system setting [1/2]  [Ezio Lacandia Bijelkic]
+
+ * packages/apps/CustomDoze
+88949d6  stag-ify ??  [vjspranav]
+
+ * packages/apps/SmartNav
+1db1b83  SmartNav: Eliminate needless BroadcastReceiver in BaseNavigationBar [2/2]  [bigrushdog]
+c1061a8  SmartNav: Reload icons from storage when boot completes  [bigrushdog]
+c9f836d  Pulse: Fix defaulting to user color if no album color available  [Pranav Vashi]
+adecbc8  SmartNav: opa: fix Pixel animation on SB with new SysUI opa  [argraur]
+ca556ec  SmartNav: Use correct colors for popup  [xyyx]
+
+ * vendor/support
+c195cdd  Adpt more files to stag  [vjspranav]
+
+
