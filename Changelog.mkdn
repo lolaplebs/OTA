@@ -1,0 +1,86 @@
+
+STAG OS AUGUST RELEASE CHANGELOG
+Team StagAugust 11, 2019
+#Sic_Parvis_Magna
+
+
+🔅🔅So guys we're back after a long time (a month if I'm not wrong)
+
+We try to get releases every week but sometimes getting a better build is better than a quicker build and so you have it.
+
+We here listen to everything you want we care about everything you care about. So whatever we do we take your opinion into consideration too
+
+And we try to add most of the requested features fix the most annoying of the bugs and this has lead us to the changelog which we now present🔅🔅
+
+
+🔸🔸August patch merged🔸🔸
+
+🔹Bugs fixed🔹
+
+⭕Fixed nav bar invert for pie nav bar
+
+⭕Fixed horns icon in dark, Shishu and black
+
+⭕Fixed issues with shishu theme
+
+⭕Fix NPE with SmartNav and fling
+
+⭕Improvised Smart Charging
+
+⭕Moved accent/theme tile to only theme tile
+
+   *As we now moved to rgb accent it didn't make any sense there
+
+⭕Removed Qs Themes as they were causing issues with general themeing 
+
+⭕Fix OP Gestures in landscape and improvise them
+
+⭕Fix no default ringtone in sim 2
+
+⭕Fix toast background in shishu
+
+⭕Fix long press power button for flash(Also added option to change it to double tap)
+
+⭕Fix power menu on lockscreen
+
+⭕Fixed volume rocker playback control
+
+🔹Features added🔹
+
+🔘Moved to CustomDoze package for better ambient display experience
+
+🔘More buttons in NavBar Tuner
+
+🔘Added status bar notification ticker
+
+🔘Changed double tap in ambinet ticker to pause track to double tap in ambient ticker to skip to next track
+
+ *Planning to get long press on ambient ticker to pause
+
+🔘Added vibration intensity, Height and a couple of tweaks in OP Gestures
+
+🔘Added Edge gestures and edge gesture animations
+
+🔘Added new sim colors
+
+🔘Added Pocket lock and pocket judge
+
+🔘Added more switch styles
+
+🔘Added A new bootanimation and a new volte logo(You are going to love it)
+
+🔘Imported dictionaries in keyboard
+
+🔘Added terminal in developer options
+
+🔘Switched to Lawnchair launcher
+
+🔘LiveWallpaper picker there by default :)
+
+🔘Move to aosp apps(for dialer etc) Now you can flash official open gapps
+
+🔘Allow to quickly open Running Services from QS panel
+
+🔘Added Breathing missedcall/sms/notification
+
+🔘Re add auto recording option to dialer
