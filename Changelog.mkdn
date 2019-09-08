@@ -1,3 +1,72 @@
+STAG OS AUGUST RELEASE CHANGELOG
+Team StagSeptember 8, 2019
+#Sic_Parvis_Magna
+
+✳️✳️First and foremost Hello everyone / almost been a month since my last update on the changelog, neverthless, we've had many exciting things happpenenig this time, like lets say Android Q oops Android 10 I mean, google's re-done may things there but that's for another day.✳️✳️
+
+⭕Most probably due to which(I'm assuming we don't have a sept pactch yet)
+
+⭕There are backports of lineage available on the patch, but I inisisted we wait this month and if Google plans to discontinue pie(Which i'm hoping it doesn't), We'll look for alternatives.
+
+⭕Apart from that change is not an easy thing. As much excited as many people are regarding Q, I'm pretty sure that for some time (a couple of months) people would want a stable rom to come back to until they can feel homely with Q, and we plan on delivering it, we'll keep updating pie, and in bg keep refining android 10 source and releae the first 10 build in a complete manner....
+
+🔘🔘Changelog🔘🔘
+
+🔹No sept patch (reason above)
+
+🔹Added the toggle for doubletap to sleep on statusbar(It was on by default)
+
+🔹Added double tap to sleep on lock screen
+
+🔹Added USB Tether QS tile
+
+🔹Added Sync QS tile
+
+🔹Removed Night light tile as Live display tile does the job
+
+🔹Dynamic gaming mode(We feel it's about time we get it too)
+
+🔹Gaming mode tile
+
+🔹Add developer setting to set the default GPU renderer.
+
+🔹Allow Skia Vulkan to be used as HW renderer
+
+🔹For phones with in screen FP:
+
+ ..Switched FP to lineage fingerprint on display implementation
+
+🔹Fix notification ticker allignment in statusbar
+
+🔹Remove default screen recorder and move to Lineage modded screen recorder supporting internal audio recording
+
+🔹Added support for Long/Scrolling Screenshot, With 2 secconds timeout
+
+🔹Improve Edge gesture 
+
+🔹Added ability to restrict per app data usage
+
+🔹Added battery saving mode to location in Settings
+
+🔹Added switch to doze on charge(It went missing as we swiched to custom doze package)
+
+🔹Added Smart Mute option(Turn your phone down to Silent)
+
+🔘🔘Bug Fixes🔘🔘
+
+🔹Fix QS edit section in dark theme
+
+🔹Fix accent not applying on a few QS tiles Styles
+
+🔹Fixed NFC issue on dirrty flash(in OP Phones)
+
+🔹Fixed tinting issue in volume panel on dark theme
+
+
+~Sic_Parvis_Magna~
+
+
+
 
 STAG OS AUGUST RELEASE CHANGELOG
 Team StagAugust 11, 2019
