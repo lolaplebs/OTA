@@ -1,12 +1,12 @@
 {
   "error": false,
-  "id": "04e681d3eb071110d27539155643987a0388634e590308fda4a895a2005bcea4",
-  "filename": "StagOS-z2_plus-10.0.1-WEEKLY-20200305-0330.zip",
-  "datetime": 1583378949,
+  "id": "85520c3088e93fe62f7a091743d53586236dde6dc757147f556c1aa4090c451d",
+  "filename": "StagOS-z2_plus-10.0.1-WEEKLY-20200416-0518.zip",
+  "datetime": 1587014230,
   "version": "10.0.1",
-  "size": 657971558,
-  "url": "https://downloads.stag.workers.dev/z2_plus/StagOS-z2_plus-10.0.1-WEEKLY-20200305-0330.zip",
-  "filehash": "688c9932d72d86079523e6ef9aae76c4",
+  "size": 782649511,
+  "url": "https://downloads.stag.workers.dev/z2_plus/StagOS-z2_plus-10.0.1-WEEKLY-20200416-0518.zip",
+  "filehash": "1256e8f6e5244e51cce9bb1510b824a3",
   "website_url": "https://downloads.stag.workers.dev",
   "news_url": "https://t.me/HornsUpdates"
 }
