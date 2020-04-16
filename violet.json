@@ -1,12 +1,12 @@
 {
   "error": false,
-  "id": "6dc25c68a7825c34557c2804fa4e046c9b577f4b6d1ebbfd757a7a14e081363c",
-  "filename": "StagOS-violet-10.0.1-WEEKLY-20200227-0500.zip",
-  "datetime": 1582779570,
+  "id": "22afcd02dd4c516f8e7b62aa302a05a37ed6bd68255bd5d821948cfef65cd5f6",
+  "filename": "StagOS-violet-10.0.1-WEEKLY-20200416-0849.zip",
+  "datetime": 1587026895,
   "version": "10.0.1",
-  "size": 877572551,
-  "url": "https://downloads.stag.workers.dev/violet/StagOS-violet-10.0.1-WEEKLY-20200227-0500.zip",
-  "filehash": "887ba64a012ac3ce0f1e564ee9fda29c",
+  "size": 997627176,
+  "url": "https://downloads.stag.workers.dev/violet/StagOS-violet-10.0.1-WEEKLY-20200416-0849.zip",
+  "filehash": "f15d01b056c3a16b2ccbb75cd128fc88",
   "website_url": "https://downloads.stag.workers.dev",
   "news_url": "https://t.me/HornsUpdates"
 }
