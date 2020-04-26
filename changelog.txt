@@ -1,0 +1,62 @@
+Changelog
+Team StagApril 27, 2020
+
+
+So Guys phew a long week's gap and many big things happened (Trust me)
+Ok corona is still on the large but we really hope all of you are staying strong and maintaining social distancing and all the suggested hygiene.
+Other than that our Stag Family reached 1K damn that's a lot wow, like it gives us immense pleasure thinking of it. So we listen to you right so we have huge changes to both our release variants and release schedule, (which we will post on channel individually as well)
+
+Firstly the release schedule will be as follows
+
+    Mon: Beryllium 
+    Tue: Enchilada, Fajita 
+    Wed: Guacamoleb 
+    Thu: Whyred 
+    Fri: RMX
+    Sat: Z2 Plus
+    Sun: Tissot
+    Mon: Violet
+    Tue: X00T
+    Wed: Chiron
+    Thu: Onclite
+    Fri: Garlic
+
+So releases will be continuously for two weeks so for example
+first Monday would be beryllium second Monday would be Violet third Monday would be beryllium again and so on.
+
+And next we are finally going to start our Gapps varant builds, it has been long requested and yes we are finally doing it.
+And people who don't like gapps or have their different take don't worry we have a on gapps variant too.
+
+So all the officially supported devices will have two builds with every release
+1) Gapps Variant
+2) Pristine (Non Gapps) Variant
+
+Phew two big things but that's not it let's have a look at the broader changelog
+Fixes
+
+    fixed an issue where a row goes missing when in landscape mode and headers enabled in QS tiles.
+    Due to a small mixup FOD customisation where shipped to all devices this has been fixes
+    Long SS screenshots were saving in a different location causing a minor issue
+    Fix notification on Typographic Clock
+
+Additions
+
+    Gapps variant support added
+    Removed Face Unlock (Thanks Motorola)
+    Re-did QS columns/rows customization.
+    Switched to lineage's implementation of OTA
+    Added Lockscreen Clock styles
+    Added Lockscreen Date styles
+    Added Lockscreen Clock fonts
+    Added Lockscreen Date fonts
+    Option to Hide lockscreen clock and date
+    Added R type panels for Wifi, Mobile Data, NFC and Data tiles
+    show current and new version on apk installation
+    Addjust some padding in statusbar
+
+With all these changes we are very happy to uprev our version to 10.0.2
+
+Here's to a cheerful time ahead.
+Hope you have a great time
+~Sic Parvis Magna~
+ 
