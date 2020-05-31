@@ -1,4 +1,46 @@
 Changelog
+Team Stag May 12, 2020
+
+Hey Guys Hope you enjoyed the releases.
+
+Now as we said we revamped the Updater so builds from this week (starting tomorrow) will be pushed via OTA, device specific Instructions provided in thread.
+
+*OP6/6T are exempt from OTA's this week.
+
+*A/B OTA support has been added.
+
+Other than that Here are the major Changes.
+
+Boy oh Boy It's may alright and what better way than to have May Patch in our builds.
+
+Fixes:
+Recents view of Launcher
+Theming of Updater app in Dark Mode (That sure looked bad)
+In clock styles sammy hour accent gave full accent clock, fixed that issue
+Fix opening of horns on long tapping Blank space in non expanded QS   
+Fixed color of OOS Styled clear all button in light theme
+Fixed QS padding
+Fixed Music Ticker Padding
+
+Additions:
+Blur Behind Quick Settings (toggle-able)
+Remove Notification smart replies
+Add a couple more ringtones
+QS tint (on by default)
+Add Horns Tile, Long tap to Open customizations, Single tap to insults
+OOS Styled brightness slider (With dynamic changing icons to the left of slider)
+Add blur behind power menu
+Add extended volume panel from pie (Long tap for 10 type panel)
+Add QS Header Data Usage
+Add our two date styles accent with transparent ending, gradient with transparent ending
+Launcher3 revamp (Added hidden/protected apps)
+Add Wave kind battery view in Settings>Battery 
+
+
+TODO:
+Yet to Fix Network Traffic.
+
+Changelog
 Team StagApril 27, 2020
 
 

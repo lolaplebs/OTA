@@ -1,38 +1,65 @@
-Hey Guys Hope you enjoyed the releases.
+Changelog
+Team Stag June 1, 2020
+Hey guys, firstly we're sorry for a weeks delay. Server troubles we couldn't help it.
+I'll directly jump to changelog, but before that here is the updated release schedule
 
-Now as we said we revamped the Updater so builds from this week (starting tomorrow) will be pushed via OTA, device specific Instructions provided in thread.
+    Tissot has been dropped from the list of official devices
+    Garlic has been put on hold until further notic
 
-*OP6/6T are exempt from OTA's this week.
+    Week 1/3 : 
+    Mon: Beryllium - u_r_fckn_awsm
+    Tue: Enchilada, Fajita - vjspranav
+    Wed: 
+    Thu: Whyred - NAHSEEZ 
+    Fri: RMX - ryan_ryz
+    Sat: Lavendar - @susandahal  
+    Sun: Z2 Plus- nikhilgohil
 
-*A/B OTA support has been added.
+    Week 2/4 :
+    Mon: Violet - Gabbyintegral/tesla59
+    Tue: X00T - KNdroid
+    Wed: Chiron - Lightvortex242
+    Thu: Onclite - skybird350
+    Fri: mido - shashank1436 , bonito/sargo - kshmr
+    Sat: 
+    Sun: 
 
-Other than that Here are the major Changes.
+Fixes
 
-Boy oh Boy It's may alright and what better way than to have May Patch in our builds.
+    Fixed the SystemUI crash on applying some wallpapers (yes fixes the issue with wall going around in twitter)
+    Fixed issue of messed strings on OTA update or dirty flash
+    Fixed network traffic on devices with kernel 4.9+ (OP6/6T, Beryllium etc)
+    Fix volume panel on dark theme
+    Fix Horns>Misc crash on onclite
 
-Fixes:
-Recents view of Launcher
-Theming of Updater app in Dark Mode (That sure looked bad)
-In clock styles sammy hour accent gave full accent clock, fixed that issue
-Fix opening of horns on long tapping Blank space in non expanded QS   
-Fixed color of OOS Styled clear all button in light theme
-Fixed QS padding
-Fixed Music Ticker Padding
+Additions
 
-Additions:
-Blur Behind Quick Settings (toggle-able)
-Remove Notification smart replies
-Add a couple more ringtones
-QS tint (on by default)
-Add Horns Tile, Long tap to Open customizations, Single tap to insults
-OOS Styled brightness slider (With dynamic changing icons to the left of slider)
-Add blur behind power menu
-Add extended volume panel from pie (Long tap for 10 type panel)
-Add QS Header Data Usage
-Add our two date styles accent with transparent ending, gradient with transparent ending
-Launcher3 revamp (Added hidden/protected apps)
-Add Wave kind battery view in Settings>Battery 
+    Version bumped from 10.0.2 to 10.0.3
+    Added R style Notification headers
+    Header ImagFixe height configuration
+    Added a dashboard for Animations in Horns
+    Per app wifi/data/vpn restriction
+    Fix mobile data panel 
+    Improvise bluetooth panel in qs bar
+    Add Privacy hub 
+    Add extended audio panel
+    Require unlocking to use battery saver, data saver, nfc, wifi, bt and airplane mode tile
+    Add support for Elmyra(active Edge), Motion Sense and aware for supported devices.
+    Added dynamic immersive mode tile
+    Added long swipe and L swipe for custom actions
+    Datausage: add daily/monthly data usage options
+    Added support for FM radio (will be included only in supported devices)
+    Updated Gapps
+    A visual overhaul for stock Dialer Contacts and Messaging apps (support for dark theme and follow system accents)
+    Updated Phonograph
+    Added some features like flip to mute to dialer
+    Add Notification Log
+    Added On/off toggle for sim cards
+    Added ability to look at the last 100 notifications
 
+Guys so these are the changes and fixes we are bringing about with this release
+PS: We are working on a wallpapers app, and we are sure you'll love it.  We'll share screenies on channel soon.
 
-TODO:
-Yet to Fix Network Traffic.
+Until then guys we hope you have blast with the current changes and until next release
+
+sic parvis magna
