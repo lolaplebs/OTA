@@ -1,13 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1589239628",
-      "filename": "StagOS-enchilada-10.0.2-OFFICIAL-Pristine-20200511-2328.zip",
-      "id": "28fa3568beddedbd3c766afa39d87437f6b7167af584675d5bb55cd947b5ab69",
-      "size": "743923402",
-      "url": "https://downloads.stag.workers.dev/enchilada/StagOS-enchilada-10.0.2-OFFICIAL-Pristine-20200511-2328.zip",
-      "version": "10.0.2"
+      "datetime": "1591118141",
+      "filename": "StagOS-enchilada-10.0.3-OFFICIAL-Pristine-20200602-1716.zip",
+      "id": "5ac1c28d33a7fdfdf3625cc7fe649ec14b2f8c028732328b3e01cfce523831e3",
+      "size": "765483001",
+      "url": "https://downloads.stag.workers.dev/enchilada/StagOS-enchilada-10.0.3-OFFICIAL-Pristine-20200602-1716.zip",
+      "version": "10.0.3"
     }
   ]
 }
-
