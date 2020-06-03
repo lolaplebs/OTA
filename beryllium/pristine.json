@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": "1590969109",
-      "filename": "StagOS-beryllium-10.0.3-OFFICIAL-Pristine-20200531-2352.zip",
-      "id": "3208d6e9f2f4188b6d4721a30038f0339ba3a411e93e1a361c9295d7d91d740f",
-      "size": "822458191",
-      "url": "https://downloads.stag.workers.dev/beryllium/StagOS-beryllium-10.0.3-OFFICIAL-Pristine-20200531-2352.zip",
+      "datetime": "1591187333",
+      "filename": "StagOS-beryllium-10.0.3-OFFICIAL-Pristine-20200603-1229.zip",
+      "id": "bc5aecf766e05b76012d12aca51ac2c629e6e5947cc65325a990c31249c52625",
+      "size": "823117866",
+      "url": "https://downloads.stag.workers.dev/beryllium/StagOS-beryllium-10.0.3-OFFICIAL-Pristine-20200603-1229.zip",
       "version": "10.0.3"
     }
   ]
