@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1591132369",
-      "filename": "StagOS-fajita-10.0.3-OFFICIAL-Pristine-20200602-2113.zip",
-      "id": "8bf8741b3569b163bcc7dd3e3e95977894429c87601a12ccc749840d5b5fe963",
-      "size": "862738381",
-      "url": "https://downloads.stag.workers.dev/fajita/StagOS-fajita-10.0.3-OFFICIAL-Pristine-20200602-2113.zip",
-      "version": "10.0.3"
+      "datetime": "1594345957",
+      "filename": "StagOS-fajita-10.0.4-OFFICIAL-Pristine-20200710-0153.zip",
+      "id": "cdbe90a5f1a3572e412be44a756179702d471fda321757f93cdad5dec7042494",
+      "size": "876954028",
+      "url": "https://downloads.stag.workers.dev/fajita/StagOS-fajita-10.0.4-OFFICIAL-Pristine-20200710-0153.zip",
+      "version": "10.0.4"
     }
   ]
 }

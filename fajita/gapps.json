@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1591137668",
-      "filename": "StagOS-fajita-10.0.3-OFFICIAL-GApps-20200602-2242.zip",
-      "id": "5d16a374071675877ff2a204f92646dbc25dbd0f3405ef9c15f754558a11cc94",
-      "size": "1224584004",
-      "url": "https://downloads.stag.workers.dev/fajita/StagOS-fajita-10.0.3-OFFICIAL-GApps-20200602-2242.zip",
-      "version": "10.0.3"
+      "datetime": "1594351089",
+      "filename": "StagOS-fajita-10.0.4-OFFICIAL-GApps-20200710-0319.zip",
+      "id": "f8d12d201ba738d3407899279387aacfa0eea8550f74f931c1ee065ba723e43c",
+      "size": "1239038150",
+      "url": "https://downloads.stag.workers.dev/fajita/StagOS-fajita-10.0.4-OFFICIAL-GApps-20200710-0319.zip",
+      "version": "10.0.4"
     }
   ]
 }
