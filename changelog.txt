@@ -1,66 +1,53 @@
 Changelog
-Team Stag June 1, 2020
-Hey guys, firstly we're sorry for a weeks delay. Server troubles we couldn't help it.
-I'll directly jump to changelog, but before that here is the updated release schedule
+Team Stag July 09, 2020
 
-    Tissot has been dropped from the list of official devices
-    Garlic has been put on hold until further notic
+So Hello there guys, 
+Phew a lot has changed, we have shifted from our daily releases to a collective release for all devices (Please spam respective maintainer if update doesn't come out). We have taken our fair share of time and let me assure you we have worked hard throughout, a lot of bugs have been fixed, UI fixed, latest patch and cool new features like the cherry on the cake.
+We really really thank you all for sticking around so long, 1 Month it has been right, and I really really hope you all won't be disappointed. So let me jump straight to the change log
 
-    Week 1/3 : 
-    Mon: Beryllium - u_r_fckn_awsm
-    Tue: Enchilada, Fajita - vjspranav
-    Wed: 
-    Thu: Whyred - NAHSEEZ 
-    Fri: RMX - ryan_ryz
-    Sat: Lavendar - @susandahal  
-    Sun: Z2 Plus- nikhilgohil
+ Very Firstly Let's Welcome A new device to Our Official List
+Xiaomi Redmi Note 8 Pro (begonia) Maintained by Flamefusion 
 
-    Week 2/4 :
-    Mon: Violet - Gabbyintegral/tesla59
-    Tue: X00T - KNdroid
-    Wed: Chiron - Lightvortex242
-    Thu: Onclite - skybird350
-    Fri: mido - shashank1436 , bonito/sargo - kshmr
-    Sat: 
-    Sun: 
+Here's the changelog
+With July comes the July patch and Stag is now Officially 10.0.4
 
-Fixes
+Fixes/Improvements:
 
-    Fixed the SystemUI crash on applying some wallpapers (yes fixes the issue with wall going around in twitter)
-    Fixed issue of messed strings on OTA update or dirty flash
-    Fixed network traffic on devices with kernel 4.9+ (OP6/6T, Beryllium etc)
-    Fix volume panel on dark theme
-    Fix Horns>Misc crash on onclite
+New Wallpaper and an Accent to go with it (You'd Love it)
+Reworked Aosp theming (Moved from Settings > Display to Horns > System > Themes)
+3 Button nav on first boot, gestural navigation by default was buggy on first boot
+A lot of tiny fixes, that had a possibiity of Causing SystemUI crash (a lot of them :) )
+Fix some screen freeze cases (randomly sometimes while screenshot)
+Missed call notification icon update
+Font more System elements with custom font (yoo)
+Apply Font to Type Clock 
+Fix padding for date and owner info when using type clock (Yo now they'll be to the left when required)
+Removed Bubble clock (Seeing some fixes)
+Made the exisitng Analog Clock a proper Analog look.
+Bluetooth is now off by default (Yo Hoo, save that battery)
+Fix cases where notification icons go crazy when using centre clock
+Improvised RGB accenter Logic
+Finally Fixed the Dashboard icons (For Google, Wellbeing and device specic tabs)
+QS Tint on by default shows quite dark behaviour till first restart, fixed that.
+Remove present Accents from theme Picker (they get broken after you use the RGB one)
 
-Additions
-
-    Version bumped from 10.0.2 to 10.0.3
-    Security patch bump tu June
-    Added R style Notification headers
-    Header ImagFixe height configuration
-    Added a dashboard for Animations in Horns
-    Per app wifi/data/vpn restriction
-    Fix mobile data panel 
-    Improvise bluetooth panel in qs bar
-    Add Privacy hub 
-    Add extended audio panel
-    Require unlocking to use battery saver, data saver, nfc, wifi, bt and airplane mode tile
-    Add support for Elmyra(active Edge), Motion Sense and aware for supported devices.
-    Added dynamic immersive mode tile
-    Added long swipe and L swipe for custom actions
-    Datausage: add daily/monthly data usage options
-    Added support for FM radio (will be included only in supported devices)
-    Updated Gapps
-    A visual overhaul for stock Dialer Contacts and Messaging apps (support for dark theme and follow system accents)
-    Updated Phonograph
-    Added some features like flip to mute to dialer
-    Add Notification Log
-    Added On/off toggle for sim cards
-    Added ability to look at the last 100 notifications
-
-Guys so these are the changes and fixes we are bringing about with this release
-PS: We are working on a wallpapers app, and we are sure you'll love it.  We'll share screenies on channel soon.
-
-Until then guys we hope you have blast with the current changes and until next release
+Features:
+ColorBucket new themes: MaterialOcean, ChocoX, BakedGreen and ClearSpring (Yes transparency hehe)
+Added QS Tile styles, 19 of them (has oreo style just icons too, exciting right)
+Added rounded hexagon and pebble icon overlay
+Added screen stabilization
+Immersive mode tile (Works on long tap)
+German Translations for Type Clock
+Added a Toggle for disabling the charging animation
+Customize Max Lockscreen Notification count 
+Added more clocks to ThemePicker Spidey Analog, Spectrum Analog, DotOS Analog, Sneeky Analog, Bliss Analog, Analog Clock with number, 
+DividedLines Clock, SFUNNY Clock, MNML based Clock designs, Alphabetic Clocks, Orono Clock
+Added Custom Centered Type face clock
+Move battery Icon to QS Header (Will make it optional by next release)
+Added Google sound search tile
+Disable Quick Settings on Secure Lockscreen
+Added One Piece Header Styles (hoot Hoot)
+Our new logo to go with such a big change in Settings>AboutPhone>AndroidVersion
+Add some default theme presets in ThemePicker
 
 sic parvis magna
