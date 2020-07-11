@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1591520063",
-      "filename": "StagOS-z2_plus-10.0.3-OFFICIAL-Pristine-20200607-0855.zip",
-      "id": "ba00573e088c13e9306ecf4bd3ab2d2cf12b971802f09a5ef5888813ec2aad1e",
-      "size": "690675552",
-      "url": "https://downloads.stag.workers.dev/z2_plus/StagOS-z2_plus-10.0.3-OFFICIAL-Pristine-20200607-0855.zip",
-      "version": "10.0.3"
+      "datetime": "1594404237",
+      "filename": "StagOS-z2_plus-10.0.4-OFFICIAL-Pristine-20200710-1804.zip",
+      "id": "1c668c4cd68ba577de95e906f832237ea7992b94cb715f7412025a3c84b1c9ad",
+      "size": "705636965",
+      "url": "https://downloads.stag.workers.dev/z2_plus/StagOS-z2_plus-10.0.4-OFFICIAL-Pristine-20200710-1804.zip",
+      "version": "10.0.4"
     }
   ]
 }
