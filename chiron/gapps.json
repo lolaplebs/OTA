@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1591758769",
-      "filename": "StagOS-chiron-10.0.3-OFFICIAL-GApps-20200610-0313.zip",
-      "id": "3dd627ab704d846283f6c8668f38143551ae5228be5f27def241235d122f7bb0",
-      "size": "1116441234",
-      "url": "https://downloads.stag.workers.dev/chiron/StagOS-chiron-10.0.3-OFFICIAL-GApps-20200610-0313.zip",
-      "version": "10.0.3"
+      "datetime": "1594480982",
+      "filename": "StagOS-chiron-10.0.4-OFFICIAL-GApps-20200711-1523.zip",
+      "id": "cda641bab3757dbd01d29e89767ecb72892be5aa0bcdda2795e97c177a5e46f6",
+      "size": "1131939282",
+      "url": "https://downloads.stag.workers.dev/chiron/StagOS-chiron-10.0.4-OFFICIAL-GApps-20200711-1523.zip",
+      "version": "10.0.4"
     }
   ]
 }

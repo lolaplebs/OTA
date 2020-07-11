@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1591753392",
-      "filename": "StagOS-chiron-10.0.3-OFFICIAL-Pristine-20200610-0144.zip",
-      "id": "369b948981241a6acc6bd72db71d153224b4a038b0f81f5f17306673fa9d57ab",
-      "size": "709106812",
-      "url": "https://downloads.stag.workers.dev/chiron/StagOS-chiron-10.0.3-OFFICIAL-Pristine-20200610-0144.zip",
-      "version": "10.0.3"
+      "datetime": "1594476557",
+      "filename": "StagOS-chiron-10.0.4-OFFICIAL-Pristine-20200711-1410.zip",
+      "id": "acb9cdd07415a706e3dbda68f64267980b15622b3775c155e7fc3a446506de18",
+      "size": "723259153",
+      "url": "https://downloads.stag.workers.dev/chiron/StagOS-chiron-10.0.4-OFFICIAL-Pristine-20200711-1410.zip",
+      "version": "10.0.4"
     }
   ]
 }
