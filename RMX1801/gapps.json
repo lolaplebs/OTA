@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1591367742",
-      "filename": "StagOS-RMX1801-10.0.3-OFFICIAL-GApps-20200605-1436.zip",
-      "id": "a87229071fd4c6d7840ed288aa152ddaa328e48505ac9926b2f18bafb801f403",
-      "size": "1265498626",
-      "url": "https://downloads.stag.workers.dev/RMX1801/StagOS-RMX1801-10.0.3-OFFICIAL-GApps-20200605-1436.zip",
-      "version": "10.0.3"
+      "datetime": "1594490710",
+      "filename": "StagOS-RMX1801-10.0.4-OFFICIAL-GApps-20200711-1806.zip",
+      "id": "70fee2fbe85afe6bba50ac84914c94613f82eae418e62b550584c7d1cb2c0a67",
+      "size": "1282164138",
+      "url": "https://downloads.stag.workers.dev/RMX1801/StagOS-RMX1801-10.0.4-OFFICIAL-GApps-20200711-1806.zip",
+      "version": "10.0.4"
     }
   ]
 }
