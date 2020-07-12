@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1591870449",
-      "filename": "StagOS-onclite-10.0.3-OFFICIAL-GApps-20200611-1015.zip",
-      "id": "43d7b2956ae1dfd7892e144610adc478e92aead710e68b75f6e773fdf05603fe",
-      "size": "1360193892",
-      "url": "https://downloads.stag.workers.dev/onclite/StagOS-onclite-10.0.3-OFFICIAL-GApps-20200611-1015.zip",
-      "version": "10.0.3"
+      "datetime": "1594512797",
+      "filename": "StagOS-onclite-10.0.4-OFFICIAL-GApps-20200712-0014.zip",
+      "id": "02708b31b0b54e1745c442e269d5e646da268438f9f0300225649048bd6e6d88",
+      "size": "1495239167",
+      "url": "https://downloads.stag.workers.dev/onclite/StagOS-onclite-10.0.4-OFFICIAL-GApps-20200712-0014.zip",
+      "version": "10.0.4"
     }
   ]
 }
