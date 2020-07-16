@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1591350197",
-      "filename": "StagOS-whyred-10.0.3-OFFICIAL-GApps-20200605-0944.zip",
-      "id": "a68b1d77bbe51679c6d0916b987a0349044b9e2c57326992e888457f5a3eb98f",
-      "size": "1161895352",
-      "url": "https://downloads.stag.workers.dev/whyred/StagOS-whyred-10.0.3-OFFICIAL-GApps-20200605-0944.zip",
-      "version": "10.0.3"
+      "datetime": "1594915379",
+      "filename": "StagOS-whyred-10.0.4-OFFICIAL-GApps-20200716-1603.zip",
+      "id": "ae707f6fcf0b4ed4f41eb12523aec9b7528a3f8ff82a19a3dc125eb7a4dfc3f8",
+      "size": "1175459820",
+      "url": "https://downloads.stag.workers.dev/whyred/StagOS-whyred-10.0.4-OFFICIAL-GApps-20200716-1603.zip",
+      "version": "10.0.4"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1591347147",
-      "filename": "StagOS-whyred-10.0.3-OFFICIAL-Pristine-20200605-0852.zip",
-      "id": "09253d7a5e45862476a35169e3c1c489f74d8474ecd9507604975db789f25ab4",
-      "size": "756405365",
-      "url": "https://downloads.stag.workers.dev/whyred/StagOS-whyred-10.0.3-OFFICIAL-Pristine-20200605-0852.zip",
-      "version": "10.0.3"
+      "datetime": "1594910840",
+      "filename": "StagOS-whyred-10.0.4-OFFICIAL-Pristine-20200716-1448.zip",
+      "id": "690b8dfc00e9606dbe3facb98825cf8818e0e2118409c69217d6eb2ee84dc5e1",
+      "size": "769008478",
+      "url": "https://downloads.stag.workers.dev/whyred/StagOS-whyred-10.0.4-OFFICIAL-Pristine-20200716-1448.zip",
+      "version": "10.0.4"
     }
   ]
 }
