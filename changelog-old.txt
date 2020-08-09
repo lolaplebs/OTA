@@ -1,4 +1,58 @@
 Changelog
+Team Stag July 09, 2020
+
+So Hello there guys,
+Phew a lot has changed, we have shifted from our daily releases to a collective release for all devices (Please spam respective maintainer if update doesn't come out). We have taken our fair share of time and let me assure you we have worked hard throughout, a lot of bugs have been fixed, UI fixed, latest patch and cool new features like the cherry on the cake.
+We really really thank you all for sticking around so long, 1 Month it has been right, and I really really hope you all won't be disappointed. So let me jump straight to the change log
+
+ Very Firstly Let's Welcome A new device to Our Official List
+Xiaomi Redmi Note 8 Pro (begonia) Maintained by Flamefusion
+
+Here's the changelog
+With July comes the July patch and Stag is now Officially 10.0.4
+
+Fixes/Improvements:
+
+New Wallpaper and an Accent to go with it (You'd Love it)
+Reworked Aosp theming (Moved from Settings > Display to Horns > System > Themes)
+3 Button nav on first boot, gestural navigation by default was buggy on first boot
+A lot of tiny fixes, that had a possibiity of Causing SystemUI crash (a lot of them :) )
+Fix some screen freeze cases (randomly sometimes while screenshot)
+Missed call notification icon update
+Font more System elements with custom font (yoo)
+Apply Font to Type Clock
+Fix padding for date and owner info when using type clock (Yo now they'll be to the left when required)
+Removed Bubble clock (Seeing some fixes)
+Made the exisitng Analog Clock a proper Analog look.
+Bluetooth is now off by default (Yo Hoo, save that battery)
+Fix cases where notification icons go crazy when using centre clock
+Improvised RGB accenter Logic
+Finally Fixed the Dashboard icons (For Google, Wellbeing and device specic tabs)
+QS Tint on by default shows quite dark behaviour till first restart, fixed that.
+Remove present Accents from theme Picker (they get broken after you use the RGB one)
+
+Features:
+ColorBucket new themes: MaterialOcean, ChocoX, BakedGreen and ClearSpring (Yes transparency hehe)
+Added QS Tile styles, 19 of them (has oreo style just icons too, exciting right)
+Added rounded hexagon and pebble icon overlay
+Added screen stabilization
+Immersive mode tile (Works on long tap)
+German Translations for Type Clock
+Added a Toggle for disabling the charging animation
+Customize Max Lockscreen Notification count
+Added more clocks to ThemePicker Spidey Analog, Spectrum Analog, DotOS Analog, Sneeky Analog, Bliss Analog, Analog Clock with number,
+DividedLines Clock, SFUNNY Clock, MNML based Clock designs, Alphabetic Clocks, Orono Clock
+Added Custom Centered Type face clock
+Move battery Icon to QS Header (Will make it optional by next release)
+Added Google sound search tile
+Disable Quick Settings on Secure Lockscreen
+Added One Piece Header Styles (hoot Hoot)
+Our new logo to go with such a big change in Settings>AboutPhone>AndroidVersion
+Add some default theme presets in ThemePicker
+
+sic parvis magna
+
+Changelog
 Team Stag June 1, 2020
 Hey guys, firstly we're sorry for a weeks delay. Server troubles we couldn't help it.
 I'll directly jump to changelog, but before that here is the updated release schedule
