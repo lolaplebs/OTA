@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1594438536",
-      "filename": "StagOS-violet-10.0.4-OFFICIAL-GApps-20200711-0336.zip",
-      "id": "7ab6aaf2f4702bdc8989ecbd4b009e35f96b3517976922a87b32d6ddce399459",
-      "size": "1332164894",
-      "url": "https://downloads.stag.workers.dev/violet/StagOS-violet-10.0.4-OFFICIAL-GApps-20200711-0336.zip",
-      "version": "10.0.4"
+      "datetime": "1597038548",
+      "filename": "StagOS-violet-10.0.5-OFFICIAL-GApps-20200810-0550.zip",
+      "id": "071fbc985f8b5e0ba2d6a0e6edfed3ea2cb122683c66e7815db367e9557d869f",
+      "size": "1376373793",
+      "url": "https://downloads.stag.workers.dev/violet/StagOS-violet-10.0.5-OFFICIAL-GApps-20200810-0550.zip",
+      "version": "10.0.5"
     }
   ]
 }

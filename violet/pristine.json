@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1594426414",
-      "filename": "StagOS-violet-10.0.4-OFFICIAL-Pristine-20200711-0014.zip",
-      "id": "bdb27ceb0b4e49d76e67cc5742d4da4110f25ecd89cfc6e8c0963093ba3bb0fb",
-      "size": "918402956",
-      "url": "https://downloads.stag.workers.dev/violet/StagOS-violet-10.0.4-OFFICIAL-Pristine-20200711-0014.zip",
-      "version": "10.0.4"
+      "datetime": "1597030767",
+      "filename": "StagOS-violet-10.0.5-OFFICIAL-Pristine-20200810-0340.zip",
+      "id": "13cf393310c34806dcd4a1cb31b7b451cd311befb136877f0ae6b6ddf06a7549",
+      "size": "962693817",
+      "url": "https://downloads.stag.workers.dev/violet/StagOS-violet-10.0.5-OFFICIAL-Pristine-20200810-0340.zip",
+      "version": "10.0.5"
     }
   ]
 }
