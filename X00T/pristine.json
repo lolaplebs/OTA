@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1594366700",
-      "filename": "StagOS-X00T-10.0.4-OFFICIAL-Pristine-20200710-0739.zip",
-      "id": "17c0411ad14c0a92a0e409f6c403820e479c840ae531e0c3e9ab19a2d50d31d7",
-      "size": "728822684",
-      "url": "https://downloads.stag.workers.dev/X00T/StagOS-X00T-10.0.4-OFFICIAL-Pristine-20200710-0739.zip",
-      "version": "10.0.4"
+      "datetime": "1597147241",
+      "filename": "StagOS-X00T-10.0.5-OFFICIAL-Pristine-20200811-1201.zip",
+      "id": "201d857873601d9fc20f4a1cf75e7ebfb7547048601c08d0f046058dc61c0cd2",
+      "size": "784217773",
+      "url": "https://downloads.stag.workers.dev/X00T/StagOS-X00T-10.0.5-OFFICIAL-Pristine-20200811-1201.zip",
+      "version": "10.0.5"
     }
   ]
 }
