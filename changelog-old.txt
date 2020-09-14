@@ -1,4 +1,49 @@
 Changelog
+Team Stag August 09, 2020
+
+Stag OS welcomes August with latest security patch and amazing new features.
+So here is the changelog :
+August Security Patch (Obviously)
+
+Brand new Bootanimation (Thanks to @SHR150)
+
+Brand new Walls app (Thanks to @xyron)
+
+Added more anime header packs
+
+Introducing Spectroscope (Choose colors from Whole spectrum Or cherry-picked spectral lines)
+
+Added OnePlus Minimalism clock
+
+Added OnePlus Analog Clock Style
+
+Added OnePlus Roman analog clock
+
+Added Oneplus Minimal analog clock
+
+Added OnePlus Numbers clock
+
+Added LineageOS clock
+
+ Improved analog clocks
+
+ Enabled Home button wake
+
+Updated dark material colors
+
+Stopad auto-granting location to system browsers
+
+Adapt screenshot sound to ringer modes
+
+Added Volume panel styles
+
+Force-enable permissions hub regardless of what google says
+
+Fixed SystemUI failed to go to doze issue
+
+~ Sic Parvis Magna ~
+
+Changelog
 Team Stag July 09, 2020
 
 So Hello there guys,
