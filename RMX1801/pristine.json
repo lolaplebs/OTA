@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1597021233",
-      "filename": "StagOS-RMX1801-10.0.5-OFFICIAL-Pristine-20200810-0101.zip",
-      "id": "b23d8745ce7d95d3a4e0bfe7f4ab11c81aa13bff7a1a75f718430467d845ad5c",
-      "size": "971702112",
-      "url": "https://downloads.stag.workers.dev/RMX1801/StagOS-RMX1801-10.0.5-OFFICIAL-Pristine-20200810-0101.zip",
-      "version": "10.0.5"
+      "datetime": "1600148426",
+      "filename": "StagOS-RMX1801-10.0.6-OFFICIAL-Pristine-20200915-0541.zip",
+      "id": "ab877ab2ec1dda50980b59683d84cb662080421cb150d5cc7c2c8ff2a60c8d35",
+      "size": "1050890012",
+      "url": "https://downloads.stag.workers.dev/RMX1801/StagOS-RMX1801-10.0.6-OFFICIAL-Pristine-20200915-0541.zip",
+      "version": "10.0.6"
     }
   ]
 }
