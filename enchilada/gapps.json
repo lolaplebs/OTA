@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1596996450",
-      "filename": "StagOS-enchilada-10.0.5-OFFICIAL-GApps-20200809-1808.zip",
-      "id": "1a4c960f804f15dba718abfe8e9fdc2dd82a000830507fbb10364433803c6519",
-      "size": "1221186846",
-      "url": "https://downloads.stag.workers.dev/enchilada/StagOS-enchilada-10.0.5-OFFICIAL-GApps-20200809-1808.zip",
-      "version": "10.0.5"
+      "datetime": "1600117646",
+      "filename": "StagOS-enchilada-10.0.6-OFFICIAL-GApps-20200914-2108.zip",
+      "id": "300be3bb48dab8d977401ac5798b6191afa355331d102a0526d2351b059bedd4",
+      "size": "1153229705",
+      "url": "https://downloads.stag.workers.dev/enchilada/StagOS-enchilada-10.0.6-OFFICIAL-GApps-20200914-2108.zip",
+      "version": "10.0.6"
     }
   ]
 }
