@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1597124809",
-      "filename": "StagOS-lavender-10.0.5-OFFICIAL-Pristine-20200811-0547.zip",
-      "id": "f76c43057b1357e08821116a6f492aa184baeb70d34b9896b8abc19715049f1e",
-      "size": "923469344",
-      "url": "https://downloads.stag.workers.dev/lavender/StagOS-lavender-10.0.5-OFFICIAL-Pristine-20200811-0547.zip",
-      "version": "10.0.5"
+      "datetime": "1600206754",
+      "filename": "StagOS-lavender-10.0.6-OFFICIAL-Pristine-20200915-2153.zip",
+      "id": "1ae681296401648e76f09ed73a396edb400217fa397e112767565c24a398b5c5",
+      "size": "985380925",
+      "url": "https://downloads.stag.workers.dev/lavender/StagOS-lavender-10.0.6-OFFICIAL-Pristine-20200915-2153.zip",
+      "version": "10.0.6"
     }
   ]
 }

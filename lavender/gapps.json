@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1597138889",
-      "filename": "StagOS-lavender-10.0.5-OFFICIAL-GApps-20200811-0942.zip",
-      "id": "6d7c3ddce85281b1905eb7c50fa97dfb5f62cea4621ce4dac1be0f52734601be",
-      "size": "1337006897",
-      "url": "https://downloads.stag.workers.dev/lavender/StagOS-lavender-10.0.5-OFFICIAL-GApps-20200811-0942.zip",
-      "version": "10.0.5"
+      "datetime": "1600212776",
+      "filename": "StagOS-lavender-10.0.6-OFFICIAL-GApps-20200915-2333.zip",
+      "id": "7c69121ae3ee8bdb312761279364fc0006e79d4e9dbeee54c385cae9fedb19bd",
+      "size": "1345724571",
+      "url": "https://downloads.stag.workers.dev/lavender/StagOS-lavender-10.0.6-OFFICIAL-GApps-20200915-2333.zip",
+      "version": "10.0.6"
     }
   ]
 }
