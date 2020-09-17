@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1596987338",
-      "filename": "StagOS-beryllium-10.0.5-OFFICIAL-GApps-20200809-1536.zip",
-      "id": "11c77e1afa6acf43225cc8b1b434f0dab6469fe4096bc7f9e23833d230392d8c",
-      "size": "1294939308",
-      "url": "https://downloads.stag.workers.dev/beryllium/StagOS-beryllium-10.0.5-OFFICIAL-GApps-20200809-1536.zip",
-      "version": "10.0.5"
+      "datetime": "1600293007",
+      "filename": "StagOS-beryllium-10.0.6-OFFICIAL-GApps-20200916-2151.zip",
+      "id": "fdc219cd5e6b5def51b5b6c912422365ed248de69eec968a982119385a6aa554",
+      "size": "1307637039",
+      "url": "https://downloads.stag.workers.dev/beryllium/StagOS-beryllium-10.0.6-OFFICIAL-GApps-20200916-2151.zip",
+      "version": "10.0.6"
     }
   ]
 }
