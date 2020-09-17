@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1597123573",
-      "filename": "StagOS-begonia-10.0.5-OFFICIAL-Pristine-20200811-0526.zip",
-      "id": "24c0cb05a9f9c6a752b37b066b3739bc94a2f96e953798f71882661c6ca21a2c",
-      "size": "896428290",
-      "url": "https://downloads.stag.workers.dev/begonia/StagOS-begonia-10.0.5-OFFICIAL-Pristine-20200811-0526.zip",
-      "version": "10.0.5"
+      "datetime": "1600339393",
+      "filename": "StagOS-begonia-10.0.6-OFFICIAL-Pristine-20200917-1044.zip",
+      "id": "798e91a7643bec1d67219034d5fb7434f4b4c7a11f918aede436254e52e2e7dd",
+      "size": "1033021784",
+      "url": "https://downloads.stag.workers.dev/begonia/StagOS-begonia-10.0.6-OFFICIAL-Pristine-20200917-1044.zip",
+      "version": "10.0.6"
     }
   ]
 }

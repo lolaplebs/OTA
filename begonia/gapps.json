@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1597121105",
-      "filename": "StagOS-begonia-10.0.5-OFFICIAL-GApps-20200811-0445.zip",
-      "id": "7313d951758ffebb63d738487a948bcc3d8f8c98e82274997e2871477e05edcf",
-      "size": "1391749693",
-      "url": "https://downloads.stag.workers.dev/begonia/StagOS-begonia-10.0.5-OFFICIAL-GApps-20200811-0445.zip",
-      "version": "10.0.5"
+      "datetime": "1600345888",
+      "filename": "StagOS-begonia-10.0.6-OFFICIAL-GApps-20200917-1232.zip",
+      "id": "7ad052cb367905611476cf02468ba6d12091e47f8de3636a47d90fcfb735dad6",
+      "size": "1393330217",
+      "url": "https://downloads.stag.workers.dev/begonia/StagOS-begonia-10.0.6-OFFICIAL-GApps-20200917-1232.zip",
+      "version": "10.0.6"
     }
   ]
 }
