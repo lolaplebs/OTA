@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1597125848",
-      "filename": "StagOS-onclite-10.0.5-OFFICIAL-Pristine-20200811-0604.zip",
-      "id": "98c04c0325f5b344afc15aefbaa2b73e54be614fc936d7cdab64663e8b6dae0c",
-      "size": "1175858078",
-      "url": "https://downloads.stag.workers.dev/onclite/StagOS-onclite-10.0.5-OFFICIAL-Pristine-20200811-0604.zip",
-      "version": "10.0.5"
+      "datetime": "1600219165",
+      "filename": "StagOS-onclite-10.0.6-OFFICIAL-Pristine-20200916-0120.zip",
+      "id": "92cb69f010d3585c781b64bcf135ba2a91eab2a28cd3947fa2fc1ba0c25459ab",
+      "size": "1231392348",
+      "url": "https://downloads.stag.workers.dev/onclite/StagOS-onclite-10.0.6-OFFICIAL-Pristine-20200916-0120.zip",
+      "version": "10.0.6"
     }
   ]
 }
