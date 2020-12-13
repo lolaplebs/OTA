@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1600181184",
-      "filename": "StagOS-z2_plus-10.0.6-OFFICIAL-Pristine-20200915-1447.zip",
-      "id": "f30fdefd3b3aabe9e598c086ed19d50c760f9b81e625efb67d4e82d93cb5ca4b",
-      "size": "850169221",
-      "url": "https://downloads.stag.workers.dev/z2_plus/StagOS-z2_plus-10.0.6-OFFICIAL-Pristine-20200915-1447.zip",
-      "version": "10.0.6"
+      "datetime": "1707747879",
+      "filename": "StagOS-z2_plus-11.0.B2-BETA-Pristine-20201213-0801.zip",
+      "id": "6251640b99587e2d97e1debd8a4358863c0a1e6a4b1f3b44a0d35d2702dedfef",
+      "size": "806496312",
+      "url": "https://vjspranav.ryzenbox.me/StagOS-z2_plus-11.0.B2-BETA-Pristine-20201213-0801.zip",
+      "version": "11.0.B2"
     }
   ]
 }
